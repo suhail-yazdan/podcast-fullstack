@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "title": "The Wildlife Trusts - Well being",
+    "description": "Wild about Wellbeing is a podcast by the Wildlife Trusts. Here, talk about all things to do with nature an health",
+    "date": "2024-09-05",
+    "image": "podcast1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Surrey Wildlife Trust",
+    "description": "From Wildlife gardening to river restoration, episodes cover a range of nature themed topics and feature a wildlife experts",
+    "date": "2024-09-02",
+    "image": "podcast2.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Lancashire",
+    "description": "Find out about new nature projects, how to care for wildlife and insights into a career in conversation. how to care for wildlife",
+    "date": "2024-08-29",
+    "image": "podcast3.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Cornwall Wildlife Trus",
+    "description": "Embark on an audio adventure as you travel from the rugged cliffs of cornwall's coastline to deep wooded valleys and everywhere in between.",
+    "date": "2024-08-25",
+    "image": "podcast4.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Oxfordshire Wildlife trust",
+    "description": "Form ponds to swifts and letting your grass grow long, join us as we explore what wildlife gardening means.",
+    "date": "2024-08-20",
+    "image": "podcast5.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Derbyshire Wildlife Trust",
+    "description": "Explore Derbyshire's wildlife and wild places from the River Erewash to the Birds of the Dark peek",
+    "date": "2024-08-15",
+    "image": "podcast6.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Deploying Web Applications",
+    "description": "Deployment strategies for full-stack applications.",
+    "date": "2024-08-10",
+    "image": "podcast7.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Web Security Best Practices",
+    "description": "Securing your web applications from threats.",
+    "date": "2024-08-05",
+    "image": "podcast8.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Introduction to TypeScript",
+    "description": "Using TypeScript for type-safe JavaScript.",
+    "date": "2024-08-01",
+    "image": "podcast9.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Server-Side Rendering with Next.js",
+    "description": "Enhancing performance with server-side rendering.",
+    "date": "2024-07-25",
+    "image": "podcast1.jpg"
+  },
+  {
+    "id": 11,
+    "title": "State Management in React",
+    "description": "Understanding useState and Redux for state management.",
+    "date": "2024-07-20",
+    "image": "podcast2.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Web Performance Optimization",
+    "description": "Tips to optimize the performance of your web apps.",
+    "date": "2024-07-15",
+    "image": "podcast3.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Mobile-First Design",
+    "description": "Creating responsive, mobile-first web applications.",
+    "date": "2024-07-10",
+    "image": "podcast4.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Authentication with JWT",
+    "description": "Implementing authentication using JSON Web Tokens.",
+    "date": "2024-07-05",
+    "image": "podcast5.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Progressive Web Apps",
+    "description": "Building offline-capable, installable PWAs.",
+    "date": "2024-07-01",
+    "image": "podcast6.jpg"
+  },
+  {
+    "id": 16,
+    "title": "GraphQL Fundamentals",
+    "description": "Learning GraphQL for more efficient data fetching.",
+    "date": "2024-06-25",
+    "image": "podcast7.jpg"
+  },
+  {
+    "id": 17,
+    "title": "Version Control with Git",
+    "description": "Managing projects and collaboration with Git.",
+    "date": "2024-06-20",
+    "image": "podcast8.jpg"
+  },
+  {
+    "id": 18,
+    "title": "Automated Testing for Web Apps",
+    "description": "Using Jest and Cypress for automated testing.",
+    "date": "2024-06-15",
+    "image": "podcast9.jpg"
+  },
+  {
+    "id": 19,
+    "title": "Real-Time Communication with WebSockets",
+    "description": "Implementing real-time features with WebSockets.",
+    "date": "2024-06-10",
+    "image": "podcast1.jpg"
+  },
+  {
+    "id": 20,
+    "title": "CSS Frameworks: Bootstrap vs. Tailwind",
+    "description": "Comparing the popular CSS frameworks Bootstrap and Tailwind.",
+    "date": "2024-06-05",
+    "image": "podcast2.jpg"
+  }
+]
