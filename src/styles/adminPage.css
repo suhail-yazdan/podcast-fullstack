@@ -1,0 +1,10 @@
+.manage-podcasts{
+    background-color: lightgreen;
+    margin-top: 30px;
+    height: 500px;
+    background-color: #e2e2e2;
+}
+
+.manage-podcasts-wrapper{
+    max-width: 1366px;
+}

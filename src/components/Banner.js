@@ -1,7 +1,7 @@
 import React from 'react'
 import '../styles/banner.css'
 
-export const Banner = () => {
+const Banner = () => {
   return (
     <div className='bn-wrapper'>
         <img src="./images/hero-banner.jpg" alt="banner" />
@@ -11,3 +11,6 @@ export const Banner = () => {
     </div>
   )
 }
+
+
+export default Banner;
